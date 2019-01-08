@@ -5,7 +5,7 @@ About pypubsub
 
 Home: https://github.com/schollii/pypubsub
 
-Package license: Simplified BSD
+Package license: BSD-2-Clause
 
 Feedstock license: BSD 3-Clause
 

@@ -1,4 +1,4 @@
-{% set version = "4.0.0" %}
+{% set version = "4.0.3" %}
 
 package:
   name: pypubsub
@@ -6,10 +6,10 @@ package:
 
 source:
   url: https://github.com/schollii/pypubsub/archive/v{{ version }}.tar.gz
-  sha256: e4391c98b747c5168277ca8f37508a3f7ef65cc83bdef698316ba2e87fdb5389
+  sha256: 0df83daa1cb0021bab858ff6812d836c9712dea59a5172be1888bb554c3a89a2
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: "{{ PYTHON }} -m pip install . --no-deps -vv"
 

@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/schollii/pypubsub/archive/v{{ version }}.tar.gz
-  sha256: 0ae266d3bcf8e6c5852eeca4ce30114863bc9f6eaae27bda99de737c9f8d1538
+  sha256: 0df83daa1cb0021bab858ff6812d836c9712dea59a5172be1888bb554c3a89a2
   
 build:
   number: 0
